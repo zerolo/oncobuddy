@@ -1,0 +1,6 @@
+{
+  "name": "onco-medbuddy",
+  "version": "0.1.0",
+  "description": "Region-tagged, provenance-stamped oncology data (EU and Portugal) and a source registry the agent reads in your own browser. Not a medical device: decision support for qualified clinicians only.",
+  "keywords": ["oncology", "mcp", "guidelines", "clinical-decision-support"]
+}

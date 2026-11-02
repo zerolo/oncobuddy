@@ -1,0 +1,30 @@
+# UNREVIEWED SEED: scope-only entry, no clinical content asserted. See docs/sources/guidelines.md.
+# source: DGS norms index, cervical
+id: dgs-039-2012
+title: "Tratamento Primário do Cancro Invasivo do Colo do Útero"
+issuer: DGS
+url: https://www.dgs.pt/directrizes-da-dgs/normas-e-circulares-normativas/norma-n-0392012-de-30122012.aspx
+region: PT
+published: "2012-12-30"
+valid_as_of: "2012-12-30"  # date of the cited edition, not a currency statement
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C53"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: no_api
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the sections with the norm's recommendations and its issue and last-update dates"
+    - "Report the recommendation headings as printed, with the norm number and its issue date"
+    - "Say if the page shows the norm was replaced or revoked, and give its issue date"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

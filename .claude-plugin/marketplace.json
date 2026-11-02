@@ -1,0 +1,11 @@
+{
+  "name": "onco-medbuddy",
+  "owner": { "name": "onco@medbuddy maintainer" },
+  "plugins": [
+    {
+      "name": "onco-medbuddy",
+      "source": "./plugin",
+      "description": "onco@medbuddy: oncology data MCP server plus the oncobuddy skill. Not a medical device."
+    }
+  ]
+}

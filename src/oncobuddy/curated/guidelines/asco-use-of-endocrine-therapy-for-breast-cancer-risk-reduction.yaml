@@ -1,0 +1,30 @@
+# UNREVIEWED SEED: reference-only pointer, no clinical content asserted. The ASCO page is behind a bot check.
+# source: ASCO guideline index, breast
+id: asco-use-of-endocrine-therapy-for-breast-cancer-risk-reduction
+title: "Use of Endocrine Therapy for Breast Cancer Risk Reduction: ASCO Clinical Practice Guideline Update"
+issuer: ASCO
+url: https://doi.org/10.1200/jco.19.01472
+region: US
+reference_only: true
+published: "2019-09-03"
+valid_as_of: "2019-09-03"
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C50"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: bot_check
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the recommendations for the patient's setting and the publication date"
+    - "Report the recommendation headings as printed, together with the publication date"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

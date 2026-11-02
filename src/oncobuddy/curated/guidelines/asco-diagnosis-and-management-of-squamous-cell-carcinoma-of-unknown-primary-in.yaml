@@ -1,0 +1,30 @@
+# UNREVIEWED SEED: reference-only pointer, no clinical content asserted. The ASCO page is behind a bot check.
+# source: ASCO guideline index, head and neck
+id: asco-diagnosis-and-management-of-squamous-cell-carcinoma-of-unknown-primary-in
+title: "Diagnosis and Management of Squamous Cell Carcinoma of Unknown Primary in the Head and Neck: ASCO Guideline"
+issuer: ASCO
+url: https://doi.org/10.1200/jco.20.00275
+region: US
+reference_only: true
+published: "2020-04-23"
+valid_as_of: "2020-04-23"
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C00", "C01", "C02", "C03", "C04", "C05", "C06", "C07", "C08", "C09", "C10", "C11", "C12", "C13", "C14", "C30", "C31", "C32"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: bot_check
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the recommendations for the patient's setting and the publication date"
+    - "Report the recommendation headings as printed, together with the publication date"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

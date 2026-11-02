@@ -1,0 +1,106 @@
+# oncoBuddy curated ICD-10 site index (original work; see docs/sources/icd.md).
+# Codes are identifiers. Names are oncoBuddy's own short descriptions, NOT WHO labels.
+# Clinical review pending: every row is reviewed_by "unreviewed-seed".
+edition_date: 2026-11-01
+source: "oncoBuddy curated ICD-10 site index"
+licence: "oncobuddy-original"
+reviewed_by: "unreviewed-seed"
+categories:
+  - {code: "C00", name: "lip", group: "head-neck", search_term: "lip"}
+  - {code: "C01", name: "tongue base", group: "head-neck", search_term: "base of tongue"}
+  - {code: "C02", name: "tongue other parts", group: "head-neck", search_term: null}
+  - {code: "C03", name: "gum", group: "head-neck", search_term: "gingival"}
+  - {code: "C04", name: "floor of mouth", group: "head-neck", search_term: "floor of mouth"}
+  - {code: "C05", name: "palate", group: "head-neck", search_term: "palate"}
+  - {code: "C06", name: "mouth other and unspecified", group: "head-neck", search_term: null}
+  - {code: "C07", name: "parotid gland", group: "head-neck", search_term: "parotid"}
+  - {code: "C08", name: "major salivary glands other", group: "head-neck", search_term: null}
+  - {code: "C09", name: "tonsil", group: "head-neck", search_term: "tonsil"}
+  - {code: "C10", name: "oropharynx", group: "head-neck", search_term: "oropharyngeal"}
+  - {code: "C11", name: "nasopharynx", group: "head-neck", search_term: "nasopharyngeal"}
+  - {code: "C12", name: "pyriform sinus", group: "head-neck", search_term: "pyriform sinus"}
+  - {code: "C13", name: "hypopharynx", group: "head-neck", search_term: "hypopharyngeal"}
+  - {code: "C14", name: "pharynx other and ill-defined", group: "head-neck", search_term: null}
+  - {code: "C15", name: "oesophagus", group: "digestive", search_term: "esophageal"}
+  - {code: "C16", name: "stomach", group: "digestive", search_term: "gastric"}
+  - {code: "C17", name: "small intestine", group: "digestive", search_term: "small intestine"}
+  - {code: "C18", name: "colon", group: "digestive", search_term: "colon"}
+  - {code: "C19", name: "rectosigmoid junction", group: "digestive", search_term: "rectosigmoid"}
+  - {code: "C20", name: "rectum", group: "digestive", search_term: "rectal"}
+  - {code: "C21", name: "anus and anal canal", group: "digestive", search_term: "anal"}
+  - {code: "C22", name: "liver and intrahepatic bile ducts", group: "digestive", search_term: "liver"}
+  - {code: "C23", name: "gallbladder", group: "digestive", search_term: "gallbladder"}
+  - {code: "C24", name: "biliary tract other", group: "digestive", search_term: null}
+  - {code: "C25", name: "pancreas", group: "digestive", search_term: "pancreatic"}
+  - {code: "C26", name: "digestive organs other and ill-defined", group: "digestive", search_term: null}
+  - {code: "C30", name: "nasal cavity and middle ear", group: "respiratory-thoracic", search_term: "nasal cavity"}
+  - {code: "C31", name: "accessory sinuses", group: "respiratory-thoracic", search_term: "paranasal sinus"}
+  - {code: "C32", name: "larynx", group: "respiratory-thoracic", search_term: "laryngeal"}
+  - {code: "C33", name: "trachea", group: "respiratory-thoracic", search_term: "tracheal"}
+  - {code: "C34", name: "lung", group: "respiratory-thoracic", search_term: "lung"}
+  - {code: "C37", name: "thymus", group: "respiratory-thoracic", search_term: "thymic"}
+  - {code: "C38", name: "heart mediastinum and pleura", group: "respiratory-thoracic", search_term: null}
+  - {code: "C39", name: "respiratory and intrathoracic other", group: "respiratory-thoracic", search_term: null}
+  - {code: "C40", name: "limb bone and joint cartilage", group: "bone-soft-tissue", search_term: "bone"}
+  - {code: "C41", name: "bone and articular cartilage other", group: "bone-soft-tissue", search_term: null}
+  - {code: "C43", name: "skin melanoma", group: "skin", search_term: "melanoma"}
+  - {code: "C44", name: "skin other", group: "skin", search_term: null}
+  - {code: "C45", name: "mesothelioma", group: "bone-soft-tissue", search_term: "mesothelioma"}
+  - {code: "C46", name: "kaposi sarcoma", group: "bone-soft-tissue", search_term: "kaposi sarcoma"}
+  - {code: "C47", name: "peripheral nerves and autonomic nervous system", group: "bone-soft-tissue", search_term: "peripheral nerve"}
+  - {code: "C48", name: "retroperitoneum and peritoneum", group: "bone-soft-tissue", search_term: "retroperitoneal"}
+  - {code: "C49", name: "connective and soft tissue other", group: "bone-soft-tissue", search_term: null}
+  - {code: "C50", name: "breast", group: "breast", search_term: "breast"}
+  - {code: "C51", name: "vulva", group: "female-genital", search_term: "vulvar"}
+  - {code: "C52", name: "vagina", group: "female-genital", search_term: "vaginal"}
+  - {code: "C53", name: "cervix uteri", group: "female-genital", search_term: "cervical"}
+  - {code: "C54", name: "uterine body", group: "female-genital", search_term: "endometrial"}
+  - {code: "C55", name: "uterus unspecified part", group: "female-genital", search_term: null}
+  - {code: "C56", name: "ovary", group: "female-genital", search_term: "ovarian"}
+  - {code: "C57", name: "female genital organs other", group: "female-genital", search_term: null}
+  - {code: "C58", name: "placenta", group: "female-genital", search_term: null}
+  - {code: "C60", name: "penis", group: "male-genital", search_term: "penile"}
+  - {code: "C61", name: "prostate", group: "male-genital", search_term: "prostate"}
+  - {code: "C62", name: "testis", group: "male-genital", search_term: "testicular"}
+  - {code: "C63", name: "male genital organs other", group: "male-genital", search_term: null}
+  - {code: "C64", name: "kidney", group: "urinary", search_term: "kidney"}
+  - {code: "C65", name: "renal pelvis", group: "urinary", search_term: "renal pelvis"}
+  - {code: "C66", name: "ureter", group: "urinary", search_term: "ureteral"}
+  - {code: "C67", name: "urinary bladder", group: "urinary", search_term: "bladder"}
+  - {code: "C68", name: "urinary organs other", group: "urinary", search_term: null}
+  - {code: "C69", name: "eye and adnexa", group: "eye-cns", search_term: "ocular"}
+  - {code: "C70", name: "meninges", group: "eye-cns", search_term: "meningeal"}
+  - {code: "C71", name: "brain", group: "eye-cns", search_term: "brain"}
+  - {code: "C72", name: "spinal cord and cranial nerves and other cns", group: "eye-cns", search_term: "spinal cord"}
+  - {code: "C73", name: "thyroid gland", group: "endocrine", search_term: "thyroid"}
+  - {code: "C74", name: "adrenal gland", group: "endocrine", search_term: "adrenal"}
+  - {code: "C75", name: "endocrine glands other", group: "endocrine", search_term: null}
+  - {code: "C76", name: "other and ill-defined sites", group: "ill-defined-secondary", search_term: null}
+  - {code: "C77", name: "lymph nodes secondary", group: "ill-defined-secondary", search_term: null}
+  - {code: "C78", name: "respiratory and digestive organs secondary", group: "ill-defined-secondary", search_term: null}
+  - {code: "C79", name: "other sites secondary", group: "ill-defined-secondary", search_term: null}
+  - {code: "C80", name: "primary site unknown", group: "ill-defined-secondary", search_term: null}
+  - {code: "C81", name: "hodgkin lymphoma", group: "lymphoid-haematopoietic", search_term: "hodgkin lymphoma"}
+  - {code: "C82", name: "follicular lymphoma", group: "lymphoid-haematopoietic", search_term: "follicular lymphoma"}
+  - {code: "C83", name: "diffuse and other non-follicular lymphoma", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C84", name: "mature t and nk cell lymphoma", group: "lymphoid-haematopoietic", search_term: "t-cell lymphoma"}
+  - {code: "C85", name: "non-hodgkin lymphoma other and unspecified", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C86", name: "t and nk cell lymphoma other specified", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C88", name: "immunoproliferative disease", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C90", name: "plasma cell neoplasm myeloma", group: "lymphoid-haematopoietic", search_term: "multiple myeloma"}
+  - {code: "C91", name: "lymphoid leukaemia", group: "lymphoid-haematopoietic", search_term: "lymphoid leukemia"}
+  - {code: "C92", name: "myeloid leukaemia", group: "lymphoid-haematopoietic", search_term: "myeloid leukemia"}
+  - {code: "C93", name: "monocytic leukaemia", group: "lymphoid-haematopoietic", search_term: "monocytic leukemia"}
+  - {code: "C94", name: "leukaemia other specified cell type", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C95", name: "leukaemia unspecified cell type", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C96", name: "lymphoid and haematopoietic tissue other", group: "lymphoid-haematopoietic", search_term: null}
+  - {code: "C97", name: "multiple independent primary sites", group: "multiple-primary", search_term: null}
+  - {code: "D00", name: "in situ oral cavity oesophagus and stomach", group: "in-situ", search_term: null}
+  - {code: "D01", name: "in situ digestive organs other", group: "in-situ", search_term: null}
+  - {code: "D02", name: "in situ middle ear and respiratory system", group: "in-situ", search_term: null}
+  - {code: "D03", name: "in situ melanoma", group: "in-situ", search_term: "melanoma in situ"}
+  - {code: "D04", name: "in situ skin", group: "in-situ", search_term: null}
+  - {code: "D05", name: "in situ breast", group: "in-situ", search_term: "breast carcinoma in situ"}
+  - {code: "D06", name: "in situ cervix uteri", group: "in-situ", search_term: "cervical carcinoma in situ"}
+  - {code: "D07", name: "in situ genital organs other", group: "in-situ", search_term: null}
+  - {code: "D09", name: "in situ other and unspecified sites", group: "in-situ", search_term: null}

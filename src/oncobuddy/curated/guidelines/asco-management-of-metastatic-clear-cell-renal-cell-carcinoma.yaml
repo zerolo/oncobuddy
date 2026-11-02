@@ -1,0 +1,30 @@
+# UNREVIEWED SEED: reference-only pointer, no clinical content asserted. The ASCO page is behind a bot check.
+# source: ASCO guideline index, kidney
+id: asco-management-of-metastatic-clear-cell-renal-cell-carcinoma
+title: "Management of Metastatic Clear Cell Renal Cell Carcinoma: ASCO Guideline"
+issuer: ASCO
+url: https://doi.org/10.1200/jco.22.00868
+region: US
+reference_only: true
+published: "2022-06-21"
+valid_as_of: "2022-06-21"
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C64"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: bot_check
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the recommendations for the patient's setting and the publication date"
+    - "Report the recommendation headings as printed, together with the publication date"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

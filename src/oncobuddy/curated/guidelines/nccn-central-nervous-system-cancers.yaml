@@ -1,0 +1,31 @@
+# UNREVIEWED SEED: reference-only pointer, no clinical content asserted. NCCN guidelines are living documents behind a login.
+# source: NCCN public guideline index, central nervous system
+id: nccn-central-nervous-system-cancers
+title: "Central Nervous System Cancers"
+issuer: NCCN
+url: https://www.nccn.org/guidelines/guidelines-detail?category=1&id=1425
+region: US
+reference_only: true
+published: "unknown"
+valid_as_of: "unknown"
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C70", "C71", "C72"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: login_required
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "If the page asks you to log in, tell the user and stop; do not log in for them"
+    - "Find the section for the patient's setting and note the version shown on the page"
+    - "Report the recommendation headings as printed, together with the version shown"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

@@ -1,0 +1,9 @@
+# Parent-pointer region tree. Region IDs must be quoted if they could be read as
+# YAML booleans (NO, ON, YES, OFF, Y, N), e.g. "NO": EU.
+regions:
+  global: null
+  EU: global
+  PT: EU
+  ES: EU
+  US: global
+  UK: global

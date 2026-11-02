@@ -1,0 +1,3172 @@
+{
+ "totalCount": 847,
+ "studies": [
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT04613596",
+     "briefTitle": "Phase 2 Trial of Adagrasib Monotherapy and in Combination With Pembrolizumab and a Phase 3 Trial of Adagrasib in Combination in Patients With a KRAS G12C Mutation KRYSTAL-7"
+    },
+    "statusModule": {
+     "overallStatus": "RECRUITING",
+     "lastUpdatePostDateStruct": {
+      "date": "2026-10-30"
+     }
+    },
+    "sponsorCollaboratorsModule": {
+     "leadSponsor": {
+      "name": "Mirati Therapeutics Inc."
+     }
+    },
+    "designModule": {
+     "phases": [
+      "PHASE2",
+      "PHASE3"
+     ]
+    },
+    "contactsLocationsModule": {
+     "locations": [
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "United States"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Argentina"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Australia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Austria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Belgium"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Belgium"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Belgium"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Belgium"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Brazil"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Bulgaria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Bulgaria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Bulgaria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Bulgaria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Bulgaria"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Canada"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Canada"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Canada"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Canada"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Canada"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Canada"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Chile"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Chile"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Chile"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "COMPLETED",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "China"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Colombia"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Colombia"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Colombia"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Colombia"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Colombia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Croatia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Croatia"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Croatia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Czechia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Czechia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Czechia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Czechia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Czechia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Denmark"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Denmark"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Denmark"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Finland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Finland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "France"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Georgia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Georgia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Georgia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Georgia"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Georgia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Georgia"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Germany"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Germany"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Greece"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hong Kong"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hong Kong"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hong Kong"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hong Kong"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Hungary"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "India"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Ireland"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Ireland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Israel"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Italy"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Japan"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Malaysia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Mexico"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Netherlands"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Netherlands"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "New Zealand"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Norway"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Peru"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Philippines"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Poland"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Poland"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Portugal"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Portugal"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Portugal"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Romania"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Romania"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Romania"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Romania"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Romania"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Serbia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Serbia"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Serbia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Serbia"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Singapore"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Singapore"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "South Africa"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "South Africa"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "South Africa"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "South Korea"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Spain"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Sweden"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Switzerland"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Switzerland"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Taiwan"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Thailand"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Thailand"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "ACTIVE_NOT_RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "Turkey (T\u00fcrkiye)"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "WITHDRAWN",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "NOT_YET_RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      },
+      {
+       "status": "RECRUITING",
+       "country": "United Kingdom"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT07853690",
+     "briefTitle": "Histotripsy in Biliary Tract Cancer"
+    },
+    "statusModule": {
+     "overallStatus": "RECRUITING",
+     "lastUpdatePostDateStruct": {
+      "date": "2026-10-20"
+     }
+    },
+    "sponsorCollaboratorsModule": {
+     "leadSponsor": {
+      "name": "NYU Langone Health"
+     }
+    },
+    "designModule": {
+     "phases": [
+      "NA"
+     ]
+    },
+    "contactsLocationsModule": {
+     "locations": [
+      {
+       "status": "RECRUITING",
+       "country": "United States"
+      }
+     ]
+    }
+   }
+  },
+  {
+   "protocolSection": {
+    "identificationModule": {
+     "nctId": "NCT05077215",
+     "briefTitle": "Efficacy and Safety of a Repurposed Drug Added to the Combination of Len Plus Pem in Advanced Endometrial Cancer"
+    },
+    "statusModule": {
+     "overallStatus": "NOT_YET_RECRUITING",
+     "lastUpdatePostDateStruct": {
+      "date": "2025-12-08"
+     }
+    },
+    "sponsorCollaboratorsModule": {
+     "leadSponsor": {
+      "name": "Evergreen Therapeutics, Inc."
+     }
+    },
+    "designModule": {
+     "phases": [
+      "PHASE3"
+     ]
+    },
+    "contactsLocationsModule": {}
+   }
+  }
+ ],
+ "nextPageToken": "ZVJ76sWHmqU2wRk2CJf6_LLvzZHcI8Brd7KrgP4Ymz2RsPgw"
+}

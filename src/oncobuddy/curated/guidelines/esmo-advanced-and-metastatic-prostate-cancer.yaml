@@ -1,0 +1,29 @@
+# UNREVIEWED SEED: scope-only entry, no clinical content asserted. See docs/sources/guidelines.md.
+# source: ESMO guideline index, prostate
+id: esmo-advanced-and-metastatic-prostate-cancer
+title: "Advanced and metastatic prostate cancer: ESMO Clinical Practice Guideline for diagnosis, treatment and follow-up"
+issuer: ESMO
+url: https://doi.org/10.1016/j.annonc.2026.01.015
+region: EU
+published: "2026-02-10"
+valid_as_of: "2026-02-10"  # date of the cited edition, not a currency statement
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C61"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: bot_check
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the Recommendations list and the treatment algorithm for the patient's setting"
+    - "Report each named drug with its printed evidence level and the setting it is stated for"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

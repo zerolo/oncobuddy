@@ -1,0 +1,29 @@
+# UNREVIEWED SEED: scope-only entry, no clinical content asserted. See docs/sources/guidelines.md.
+# source: ESMO guideline index, head and neck
+id: esmo-squamous-cell-carcinoma-of-the-oral-cavity-larynx-oropharynx-and-hypopharyn
+title: "Squamous cell carcinoma of the oral cavity, larynx, oropharynx and hypopharynx: EHNS–ESMO–ESTRO Clinical Practice Guidelines for diagnosis, treatment and follow-up"
+issuer: ESMO
+url: https://doi.org/10.1016/j.annonc.2020.07.011
+region: EU
+published: "2020-10-23"
+valid_as_of: "2020-10-23"  # date of the cited edition, not a currency statement
+last_verified: "2026-11-02"
+licence: restricted-link-only
+reviewed_by: unreviewed-seed
+evidence_grade: null
+own_words: false
+summary: ""
+applies_to:
+  conditions: ["C00", "C01", "C02", "C03", "C04", "C05", "C06", "C07", "C08", "C09", "C10", "C11", "C12", "C13", "C14", "C30", "C31", "C32"]
+  stages: []
+  required_biomarkers: {}
+  line_of_therapy: any
+  interventions: []
+access:
+  method: browser
+  reason: bot_check
+  read_recipe:
+    - "Open the entry link in the user's own browser, after the user agrees"
+    - "Find the Recommendations list and the treatment algorithm for the patient's setting"
+    - "Report each named drug with its printed evidence level and the setting it is stated for"
+    - "If the page cannot be read, say so and give the link; do not fill gaps"

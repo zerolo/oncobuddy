@@ -1,0 +1,44 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "onco-medbuddy"
+version = "0.1.0"
+description = "onco@medbuddy: local-first MCP server giving a clinician's AI agent region-tagged, provenance-stamped oncology data"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    # tool-schema override relies on mcp 2.3 internals (MCPServer._tool_manager); re-test on bump
+    "mcp>=2.3,<2.4",
+    "httpx",
+    "pydantic>=2",
+    "pyyaml",
+]
+
+[project.scripts]
+oncobuddy-mcp = "oncobuddy.server:main"
+onco-medbuddy = "oncobuddy.server:main"
+oncobuddy-clear-cache = "oncobuddy.server:clear_cache_main"
+
+[dependency-groups]
+dev = [
+    "pytest",
+    "pytest-asyncio",
+    "respx",
+    "ruff",
+]
+
+[tool.hatch.build.targets.sdist]
+include = ["src", "tests", "plugin", "docs/sources", "README.md", "CONTRIBUTING.md", "pyproject.toml", "uv.lock"]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/oncobuddy"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

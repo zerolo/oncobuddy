@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "onco-medbuddy": {
+      "command": "uvx",
+      "args": ["--from", "git+https://github.com/zerolo/onco-medbuddy", "onco-medbuddy"],
+      "env": {
+        "ONCOBUDDY_EMAIL": "${ONCOBUDDY_EMAIL:-}"
+      }
+    }
+  }
+}
